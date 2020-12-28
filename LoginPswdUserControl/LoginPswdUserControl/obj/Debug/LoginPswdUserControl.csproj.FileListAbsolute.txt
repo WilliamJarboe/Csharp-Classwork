@@ -1,0 +1,8 @@
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\bin\Debug\LoginPswdUserControl.dll
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\bin\Debug\LoginPswdUserControl.pdb
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.csprojAssemblyReference.cache
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.csproj.GenerateResource.cache
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.dll
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.pdb
+C:\Users\Comwp ODG\source\repos\LoginPswdUserControl\LoginPswdUserControl\obj\Debug\LoginPswdUserControl.LoginUserPswdForm.resources
